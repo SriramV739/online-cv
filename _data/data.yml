@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Sriram Venkatesh
@@ -60,7 +60,7 @@ career-profile:
       I am a junior at American High School, Fremont CA. I am passionate about computer science and mathematics and am looking for opportunities to do real-world research. I have a 4.0 GPA with expository research experience in the fields of math and computer science. I have qualified to advanced levels in math and computer science olympiads. 
 education:
     title: Education
-    info:
+    info: High School Student
       - school: Junior at American High School Class of 2025
       - time: 2021-2025
       - coursework: Relevant Coursework
