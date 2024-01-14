@@ -63,8 +63,8 @@ education:
     info: High School Student
     school: Junior at American High School Class of 2025
       - coursework: Relevant Coursework
-          - school: AP English, AP Physics, AP Spanish, AP Calculus BC, AP Chemistry, US History
-          - external: Advanced student at Euler Circle, Statistical Analysis at Ohlone Community College, Combinatorics and Algebra from Awesome Math Summer Program, Competitive Programming from Indian Institute of Technology
+          - school AP English, AP Physics, AP Spanish, AP Calculus BC, AP Chemistry, US History
+          - external Advanced student at Euler Circle, Statistical Analysis at Ohlone Community College, Combinatorics and Algebra from Awesome Math Summer Program, Competitive Programming from Indian Institute of Technology
 experiences:
     title: Research Experience
     info:
