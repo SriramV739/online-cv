@@ -60,8 +60,10 @@ career-profile:
       I am a junior at American High School, Fremont CA. I am passionate about computer science and mathematics and am looking for opportunities to do real-world research. I have a 4.0 GPA with expository research experience in the fields of math and computer science. I have qualified to advanced levels in math and computer science olympiads. 
 education:
     title: Education
-    info: High School Student
-    school: Junior at American High School Class of 2025
+    info: 
+    - degree: High School Student
+      university: American High School 
+      time: 2025
       - item: Relevant Coursework
           - school AP English, AP Physics, AP Spanish, AP Calculus BC, AP Chemistry, US History
           - external Advanced student at Euler Circle, Statistical Analysis at Ohlone Community College, Combinatorics and Algebra from Awesome Math Summer Program, Competitive Programming from Indian Institute of Technology
