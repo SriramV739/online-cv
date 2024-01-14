@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -65,7 +65,9 @@ education:
         time: 2021-2025
         details: |
             - GPA: 4.0
-            - Bullet point
+            - Coursework
+                - School: AP English, AP Physics, AP Spanish, AP Calculus BC, AP Chemistry, US History
+                - External: Advanced student at Euler Circle, Statistical Analysis at Ohlone Community College, Combinatorics and Algebra from Awesome Math Summer Program, Competitive Programming from Indian Institute of Technology
 
 experiences:
     title: Experiences
