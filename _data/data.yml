@@ -188,11 +188,14 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Average Case Complexity Theory
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      An expository paper on Average Case Complexity Theory under the guidance of Simon Rubinstein-Salzedo of Eulers Circle.
+      Average case complexity is a branch of computational complexity theory focused on analyzing the average resource usage of computational problems over the
+      distribution of inputs. This paper focussed on Leonid Levin’s theory of average case complexity, investigate average case problems as distributional problems 
+      and attempt to produce an analogue of results in worst case complexity
+
+theory in the average case.
     papers:
       - title: The Art of Computer Programming
         link: "#"
